@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraX Object Detection</string>
+    <string name="permission_camera_rationale">We need the camera permission to take detect the objects</string>
+    <string name="grant_camera_permission">Grant Camera Permission</string>
+    <string name="target">Target: </string>
+    <string name="reference">Reference: </string>
+</resources>
