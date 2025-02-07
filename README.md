@@ -57,3 +57,6 @@ This project demonstrates object detection using CameraX and TensorFlow Lite in 
 - NNAPI is not supported due to already deprecated in Android 15. 
 - Screen rotation is disabled due to limited time but adaptive layout by jetpack compose is possible.
 - Limited test cases. I haven't found a good example of test cases for ML.
+
+## Demo
+![Demo](https://github.com/shaoyangdl/CameraXObjectDetection/releases/download/screenshots/Screenshot_20250207_232432.png)
