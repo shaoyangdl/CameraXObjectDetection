@@ -1,6 +1,3 @@
-Sure, here is a `README.md` file for your project:
-
-```markdown
 # CameraX Object Detection
 
 This project demonstrates object detection using CameraX and TensorFlow Lite in a Jetpack Compose application.
@@ -60,8 +57,3 @@ This project demonstrates object detection using CameraX and TensorFlow Lite in 
 - NNAPI is not supported due to already deprecated in Android 15. 
 - Screen rotation is disabled due to limited time but adaptive layout by jetpack compose is possible.
 - Limited test cases. I haven't found a good example of test cases for ML.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
